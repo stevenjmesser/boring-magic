@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What I’m doing now
-permalink: /now
+permalink: /now/
 ---
 
 🆓 **Available for contract positions from March 2024 onwards**
