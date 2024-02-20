@@ -3,16 +3,35 @@ layout: page
 title: Boring Magic
 ---
 
-Boring Magic is a product studio run by [Steve Messer](https://visitmy.website){:target="_blank"}. Helping you build products and services that _just work_. 
+Helping you build products and services that meet people’s expectations. No hype, no fluff. 
 
-<!-- No hype, no fluff. Utility and simplicity.
+Good, straightforward stuff that _just works_.
 
-Modern digital experiences that meet user expectations.
+### About Boring Magic
 
-### Services
+Boring Magic is a digital product consultancy run by [Steve Messer](https://visitmy.website/about){:target="_blank"}. Working independently or alongside others, we make things better for everyday people. 
 
-- Digital strategy
-- Organisation design
-- Product coaching and mentoring
-- Product management and leadership
-- Community building and management -->
+### What we do
+
+Our specialty is thinking big but starting small, and making complex things more simple. The unsexy stuff that needs to get done. 
+
+We look at what you’re doing, how, and what you want to achieve. And then we take steps forward together. 
+
+That might mean:
+
+- reviewing your vision or strategy
+- getting a new thing off the ground (0 → 1)
+- progressing a thing to its next stage (1 → _n_)
+- catalysing delivery teams
+- nurturing community and culture, or
+- training, coaching and mentoring.
+
+### Who we’ve worked with
+
+You might be from government, a local authority, the third sector, a large company or a startup. We’ve worked with organisations like yours before. 
+
+Check a [portfolio](https://visitmy.website/work){:target="_blank"} of notable projects.
+
+### Start a chat
+
+[Get in touch]({{ "/contact/" | relative_url }}) about your project and we’ll see if we can help.
