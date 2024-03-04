@@ -4,6 +4,8 @@ title: What I’m doing now
 permalink: /now/
 ---
 
-🆓 **Available for contract positions from March 2024 onwards**
+🏗️ **Busy until June 2024**
 
-Having recently finished 14 months working on the [GOV.UK Design System](https://design-system.service.gov.uk), I’m looking for my next role. [Get in touch]({{ "/contact/" | relative_url }})!
+Right now I’m working with a client until the end of May 2024. 
+
+<!-- planning data at the Department for Levelling Up, Housing and Communities (DLUHC). Check out DLUHC’s [Planning Data Standards](https://digital-land.github.io/data-standards/) for more information and our weeknotes. -->
