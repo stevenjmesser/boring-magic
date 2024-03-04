@@ -9,7 +9,7 @@ Good, straightforward stuff that _just works_.
 
 ### About Boring Magic
 
-Boring Magic is a digital product consultancy run by [Steve Messer](https://visitmy.website/about){:target="_blank"}. Working independently or alongside others, we make things better for everyday people. 
+Boring Magic is a digital product consultancy run by [Steve Messer](https://visitmy.website/about){:target="_blank"}. Working independently or alongside others, we make online things better for everyday people. 
 
 ### What we do
 
