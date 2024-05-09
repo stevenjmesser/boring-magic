@@ -11,9 +11,9 @@ Good, straightforward stuff that _just works_.
 
 Boring Magic is a digital product consultancy run by [Steve Messer](https://visitmy.website/about){:target="_blank"}. Working independently or alongside others, we make online things better for everyday people. 
 
-### What we do
+Our specialty is thinking big but starting small, and making complex or tedious things more simple. The unsexy stuff that needs to get done in modern life: like claiming tax credits, registering for financial support, or finding somewhere to live. We exist to make these things better, to [make the boring feel like magic](https://visitmy.website/2020/01/08/boring-magic/){:target="_blank"}. 
 
-Our specialty is thinking big but starting small, and making complex things more simple. The unsexy stuff that needs to get done. 
+### What we do
 
 We look at what you’re doing, how, and what you want to achieve. And then we take steps forward together. 
 
