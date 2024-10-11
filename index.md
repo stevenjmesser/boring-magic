@@ -20,11 +20,14 @@ We look at what you’re doing, how, and what you want to achieve. And then we t
 That might mean:
 
 - reviewing your vision or strategy
+- forming or refining your product operating model
+- helping you develop your product roadmap
 - getting a new thing off the ground (0 → 1)
 - progressing a thing to its next stage (1 → _n_)
-- catalysing delivery teams
 - nurturing community and culture, or
 - training, coaching and mentoring.
+
+If you need a designer or a developer too, we can tap into our network.
 
 ### Who we’ve worked with
 
