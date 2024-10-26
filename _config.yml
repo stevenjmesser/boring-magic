@@ -3,10 +3,6 @@ url: https://boringmagi.cc
 title: Boring Magic
 description: Product and design consultancy.
 author:
-  twitter: #yourusername
-  name: #yourusername
-  avatar:
-  email: #youremail
   url: https://boringmagi.cc
 permalink: /:year/:month/:day/:title/
 
