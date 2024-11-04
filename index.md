@@ -41,3 +41,23 @@ Check a [portfolio](https://visitmy.website/work){:target="_blank"} of notable p
 ### Start a chat
 
 [Get in touch]({{ "/contact/" | relative_url }}) about your project and we’ll see if we can help.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "image": "{{ site.url }}/boring-magic.png",
+  "url": "{{ site.url }}",
+  "logo": "{{ site.url }}/boring-magic.png",
+  "name": "{{ site.title }}",
+  "description": "{{ site.description }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "86-90 Paul Street",
+    "addressLocality": "London",
+    "addressCountry": "GB",
+    "addressRegion": "London",
+    "postalCode": "EC2A 4NE"
+  }
+}
+</script>
