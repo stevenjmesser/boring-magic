@@ -4,6 +4,7 @@ title: Boring Magic
 description: Product and design consultancy.
 author:
   url: https://boringmagi.cc
+  name: Steve Messer
 permalink: /:year/:month/:day/:title/
 
 baseurl: ""
