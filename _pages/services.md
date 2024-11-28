@@ -42,7 +42,6 @@ After an initial assessment of your goals, we’ll develop a plan to help you le
 
 ## Leading a team
 
-Whether you’re getting a new thing off the ground (0 → 1)
-or progressing a thing to its next stage (1 → _n_), we can join your team as a head, principal or senior product person. Minimum six months.
+Whether you’re getting a new thing off the ground (0 → 1) or progressing a thing to its next stage (1 → _n_), we can join your team as a head, principal or senior product person. Minimum six months.
 
 Got a project in mind? [Let’s chat](/contact/).
