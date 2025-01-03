@@ -55,7 +55,7 @@ If you add AI to your product or service and rely on a cloud-based supplier for 
 
 But there are lots of [openly-available generative text and vision models](https://ollama.com/){:target="_blank"} you can run on your own computer – your ‘local machine’ – breaking the reliance on external suppliers.
 
-When exploring how to apply generative AI to a client’s problem, we’ll always use an open model and run it locally first. It could be cheaper than using a third party. 
+When exploring how to apply generative AI to a client’s problem, we’ll always use an open model and run it locally first. It’s cheaper than using a third party, and [it’s more sustainable too](https://www.weforum.org/stories/2025/01/scaling-ai-without-breaking-the-grid/#:~:text=Open-source%20models%20help%20organizations%20bypass%20the%20expensive%20and%20power-intensive%20model-training%20process){:target="_blank"}.
 
 It also mitigates some [risks around privacy and security](https://www.bbc.co.uk/news/technology-68128396){:target="_blank"} by keeping all data processing local, not running on a machine in a data centre. That means we can get started sooner and do a [data protection impact assessment](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/guide-to-accountability-and-governance/data-protection-impact-assessments/){:target="_blank"} later, when necessary.
 
@@ -63,7 +63,7 @@ We can use the big players like OpenAI and Anthropic if we need to, but let’s 
 
 ### There will be consequences 
 
-We like to think of technology as a box that does a specific thing, but technology impacts and is impacted by everything around it. [Technology exists within an ecology](http://booktwo.org/notebook/ai-is-doing-exactly-what-its-creators-want-it-to-do/){:target="_blank"}. It’s an inescapable fact, so we should try to sense the likely and unlikely consequences of implementing generative AI – on people, animals, the environment, organisations, policy, society and economies. 
+People like to think of technology as a box that does a specific thing, but technology impacts and is impacted by everything around it. [Technology exists within an ecology](http://booktwo.org/notebook/ai-is-doing-exactly-what-its-creators-want-it-to-do/){:target="_blank"}. It’s an inescapable fact, so we should try to sense the likely and unlikely consequences of implementing generative AI – on people, animals, the environment, organisations, policy, society and economies. 
 
 That sounds like a big project, but there are plenty of tools out there to make it easier. We’ve used tools like [consequence scanning](https://doteveryone.org.uk/project/consequence-scanning/){:target="_blank"}, effects mapping, financial forecasting, [Four Futures](https://jfsdigital.org/articles-and-essays/2009-2/vol-14-no-2-november/essays/jim-dators-alternative-futures-and-the-path-to-iafs-aspirational-futures/){:target="_blank"} and other extrapolation methods to explore risks and harms in the past. 
 
