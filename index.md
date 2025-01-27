@@ -42,6 +42,10 @@ Check a [portfolio](https://visitmy.website/work){:target="_blank"} of notable p
 
 [Get in touch]({{ "/contact/" | relative_url }}) about your project and we’ll see if we can help.
 
+<br/>
+
+Boring Magic is a company registered in England & Wales, company number [15229583](https://find-and-update.company-information.service.gov.uk/company/15229583){:target="_blank"}. VAT number 462529580.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
