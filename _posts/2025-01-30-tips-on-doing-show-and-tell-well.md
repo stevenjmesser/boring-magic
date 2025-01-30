@@ -53,6 +53,7 @@ You can read more tips on good show & tells from [Mark Dalgarno](https://markdal
 
 1. **Be present and listen**  
 There’s nothing worse than preparing for a show & tell only to realise that no one’s paying attention. Close Slack, close Teams, stop looking at email, and give your full attention to your team-mates.  
+
 2. **Smile, use emojis, and celebrate\!**  
 Bring the good vibes and lift each other up whenever there’s something worth celebrating.
    
