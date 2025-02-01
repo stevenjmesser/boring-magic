@@ -2,7 +2,7 @@
 layout: post
 title: "Tips on doing show & tell well"
 date: 2025-01-30T11:23:48Z
-description: ""
+description: "A show & tell done well fosters collaboration, transparency, and continuous improvement within the team and with stakeholders. Here’s some tips to help."
 tags:
  - sprint review
  - show and tell
@@ -32,11 +32,11 @@ Spend time as a team working out what you want to say and who is going to share 
 2. **Set the scene**   
 Always introduce your project or epic. Who’s on the team? What are you working on? What problem are you solving? Who are your users? Why are you doing it? You don’t need to tell the full history, a 30-second overview is enough.
 
-3. **Talk about what you’ve learned**  
-Share which assumptions turned out to be incorrect, or what facts surprised you. Show clips from user research and usability testing. Highlight important analytics data or performance measures. Share both findings and insights. Be clear on the methodology and any confidence intervals, levels of confidence, risky assumptions, etc. 
+3. **Show the thing\!**  
+Scrappy diagrams, Mural boards, Post-it notes, screenshots, scribbles, photos, and clicking through prototypes bring things to life. Text and code is OK, but always aim to demonstrate something working – don’t just talk through a doc or some function.
 
-4. **Show the thing\!**  
-Scrappy diagrams, Mural boards, Post-it notes, screenshots, scribbles, photos, and clicking through prototypes bring things to life. Text and code is OK, but always aim to demonstrate something working – don’t just talk through a doc or some function. 
+4. **Talk about what you’ve learned**  
+Share which assumptions turned out to be incorrect, or what facts surprised you. Show clips from user research and usability testing. Highlight important analytics data or performance measures. Share both findings and insights. Be clear on the methodology and any confidence intervals, levels of confidence, risky assumptions, etc. 
 
 5. **Always share unfinished thinking**  
 Forget about the polish and perfection. A show & tell is the perfect place to collect feedback, ideas and thoughts. It’s a complicated space. We’re all trying to figure it out! 
@@ -46,6 +46,8 @@ Take 10–15 minutes to rehearse your section with your team to work out whether
 
 7. **Leave time for questions**  
 The best show & tells have audience participation. Wherever possible, leave time for questions – either after each team or at the end. Encourage people to ask questions in the chat, on Slack, in docs, etc. 
+
+If you do nothing else, follow tip number 3. 
 
 You can read more tips on good show & tells from [Mark Dalgarno](https://markdalgarno.medium.com/the-show-and-tell-what-its-for-and-how-to-do-it-right-32c2c7b3708b), [Emily Webber](https://emilywebber.co.uk/a-decent-remote-show-and-tell-set-up/) and [Alan Wright](https://alaniswright.com/blog/running-effective-show-tells/).
 
