@@ -16,6 +16,12 @@ A captivating vision is essential for inspiring action. Strategies work best whe
 
 We’ll spend two weeks talking to you and your team, researching the landscape, and let you know what might need changing.
 
+## Discovery and prototyping 
+
+Users’ needs. Your organisation’s goals. A solution that meets both. It’s the messy middle.
+
+Over eight to sixteen weeks, we’ll iterate rapidly through the cycle of understanding the problem and exploring the solutions. We’ll find out what’s valuable, viable, feasible and usable, setting you up for the beta build phase.
+
 ## Setting up your product foundations
 
 People, process, tools. You need to pick the right combination to start shipping early and consistently. 
