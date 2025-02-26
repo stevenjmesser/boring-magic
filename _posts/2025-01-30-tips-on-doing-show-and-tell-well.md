@@ -38,13 +38,17 @@ Scrappy diagrams, Mural boards, Post-it notes, screenshots, scribbles, photos, a
 4. **Talk about what you’ve learned**  
 Share which assumptions turned out to be incorrect, or what facts surprised you. Show clips from user research and usability testing. Highlight important analytics data or performance measures. Share both findings and insights. Be clear on the methodology and any confidence intervals, levels of confidence, risky assumptions, etc. 
 
-5. **Always share unfinished thinking**  
+5. **Be clear**
+
+Don’t hide behind jargon. Make bold statements. Say what you actually think! This helps everyone concentrate on the main point, and it generates discussion.
+
+6. **Always share unfinished thinking**  
 Forget about the polish and perfection. A show & tell is the perfect place to collect feedback, ideas and thoughts. It’s a complicated space. We’re all trying to figure it out! 
 
-6. **Rehearse**  
+7. **Rehearse**  
 Take 10–15 minutes to rehearse your section with your team to work out whether you need to cut anything. If you’re struggling to edit, use a format like [What? So what? Now what?](https://visitmy.website/2023/04/18/formats-for-show-and-tells/#what-so-what-now-what) to keep things concise. If you take up more time than you’ve been given, it’ll eat into other people’s section meaning they have to rush (or not share at all) which isn’t fair.
 
-7. **Leave time for questions**  
+8. **Leave time for questions**  
 The best show & tells have audience participation. Wherever possible, leave time for questions – either after each team or at the end. Encourage people to ask questions in the chat, on Slack, in docs, etc. 
 
 If you do nothing else, follow tip number 3. 
