@@ -16,11 +16,15 @@ A captivating vision is essential for inspiring action. Strategies work best whe
 
 We’ll spend two weeks talking to you and your team, researching the landscape, and let you know what might need changing.
 
+[Request a review →](/contact/)
+
 ## Discovery and prototyping 
 
 Users’ needs. Your organisation’s goals. A solution that meets both. It’s the messy middle.
 
 Over eight to sixteen weeks, we’ll iterate rapidly through the cycle of understanding the problem and exploring the solutions. We’ll find out what’s valuable, viable, feasible and usable, setting you up for the beta build phase.
+
+[Talk about discovery and alpha →](/contact/)
 
 ## 🆕 Building and launching
 
@@ -28,11 +32,15 @@ We all want to solve users’ problems today. But if you don’t have capacity r
 
 In partnership with our trusted developer and designer, we’ll work with you to get an MVP or new feature built and launched.
 
+[Bring in our team →](/contact/)
+
 ## Setting up your product foundations
 
 People, process, tools. You need to pick the right combination to start shipping early and consistently. 
 
 We’ll work with your teams to establish the foundations and coach them through the first few cycles.
+
+[Arrange an initial chat →](/contact/)
 
 ## Reviewing your product operating model
 
@@ -40,17 +48,23 @@ There is no one-size-fits-all process for how teams work. How you combine eviden
 
 Over six cycles or sprints, we’ll identify opportunities to improve quality, efficiency and agency, implementing the most fruitful changes.
 
+[Arrange an initial chat →](/contact/)
+
 ## Catalysing delivery teams
 
 People are your most important asset, and constant change can be tiring – especially in a transforming world.
 
 By conducting team interviews and workshops over three weeks, we’ll get an understanding of team health, help people re-energise or ramp up, and give you the tools to check everyone’s doing OK.
 
+[Arrange an initial chat →](/contact/)
+
 ## Training, coaching, mentoring
 
 Mastering one’s discipline can take a lifetime, but you have to start somewhere. Always be learning.
 
 After an initial assessment of your goals, we’ll develop a plan to help you learn new skills, take a step up, or gain confidence in your methods. At least three hours every month.
+
+[Arrange an initial chat →](/contact/)
 
 ## Leading a team
 
