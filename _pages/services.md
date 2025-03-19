@@ -22,6 +22,12 @@ Users’ needs. Your organisation’s goals. A solution that meets both. It’s 
 
 Over eight to sixteen weeks, we’ll iterate rapidly through the cycle of understanding the problem and exploring the solutions. We’ll find out what’s valuable, viable, feasible and usable, setting you up for the beta build phase.
 
+## 🆕 Building and launching
+
+We all want to solve users’ problems today. But if you don’t have capacity right now, you’ll want to call in some help.
+
+In partnership with our trusted developer and designer, we’ll work with you to get an MVP or new feature built and launched.
+
 ## Setting up your product foundations
 
 People, process, tools. You need to pick the right combination to start shipping early and consistently. 
