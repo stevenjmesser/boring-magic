@@ -32,11 +32,13 @@ If you need a designer or a developer too, we can tap into our network.
 
 Look at our [services](/services/) for more detail.
 
-### Who we’ve worked with
+### Who we work with
 
 You might be from government, a local authority, the third sector, a large company or a startup. We’ve worked with organisations like yours before. 
 
 Check a [portfolio](https://visitmy.website/work){:target="_blank"} of notable projects.
+
+<img src="/assets/images/mhclg.png" alt="Ministry of Housing, Communities and Local Government" width="150px" height="auto"><img src="/assets/images/nh.png" alt="National Highways" width="150px" height="auto">
 
 ### Start a chat
 
