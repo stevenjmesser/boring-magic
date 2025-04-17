@@ -24,7 +24,7 @@ Sprint goals suck too. It’s far too easy to push it along and limp from fortni
 
 ## How it works
 
-You can see how it works in detail on the GOV.‌UK Design System’s [team playbook](https://team-playbook.design-system.service.gov.uk/how-we-work/delivery-cycle/govuk-design-system-team-docs.netlify.app/how-we-work/delivery-cycle/){:target="_blank"} and in a [blog post from the team’s delivery manager, Kelly](https://medium.com/@kellyleeGDS/tired-of-fortnightly-sprints-were-trying-something-different-add529ac7d8b){:target="_blank"}. There’s also a graphic that brings the four-week cycle to life. 
+You can see how it works in detail on the GOV.‌UK Design System’s [team playbook](https://team-playbook.design-system.service.gov.uk/how-we-work/delivery-cycle/){:target="_blank"} and in a [blog post from the team’s delivery manager, Kelly](https://medium.com/@kellyleeGDS/tired-of-fortnightly-sprints-were-trying-something-different-add529ac7d8b){:target="_blank"}. There’s also a graphic that brings the four-week cycle to life. 
 
 There are a few principles that make this method work:
 
