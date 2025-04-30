@@ -8,13 +8,13 @@ Our primary expertise is product management, user-centred service design, and wa
 
 Modern work is complex, so we’re not limited to a specific set of services. We look at what you’re doing, how, and what you want to achieve. And then we take steps forward together.
 
-We’re mostly hired to help teams get off the ground, grow, scale or adapt. You bring the vision and we’ll work with you to achieve it.
+We’re mostly hired to help teams get off the ground, grow or scale. You bring the vision and we’ll work with you to achieve it.
 
 ## Reviewing your vision or strategy
 
 A captivating vision is essential for inspiring action. Strategies work best when they’re simple, clear and set boundaries. 
 
-We’ll spend two weeks talking to you and your team, researching the landscape, and let you know what might need changing.
+We’ll spend two weeks talking to you and your team, researching the landscape, and let you know what might need changing. (And if it’s a growth strategy, we’ll look at channels and key health metrics too.)
 
 [Request a review →](/contact/)
 
@@ -30,7 +30,7 @@ Over eight to sixteen weeks, we’ll iterate rapidly through the cycle of unders
 
 We all want to solve users’ problems today. But if you don’t have capacity right now, you’ll want to call in some help.
 
-In partnership with our trusted developer and designer, we’ll work with you to get an MVP or new feature built and launched.
+In partnership with our trusted developer and designer, we’ll work with you to get an MVP or new feature built and launched. (We’ve built AI-enabled products too.)
 
 [Bring in our team →](/contact/)
 
@@ -47,6 +47,14 @@ We’ll work with your teams to establish the foundations and coach them through
 There is no one-size-fits-all process for how teams work. How you combine evidence and insights to deliver value for users is context-specific and people-driven.
 
 Over six cycles or sprints, we’ll identify opportunities to improve quality, efficiency and agency, implementing the most fruitful changes.
+
+[Arrange an initial chat →](/contact/)
+
+## Designing your value architecture
+
+Your actions won’t deliver value by accident. The most successful products and services have sewn the golden thread between vision, strategy, objectives, key results and other indicators. 
+
+Over four to six weeks, we’ll map out your current or planned value ecosystem, identify misalignments or gaps, and design a coherent architecture that maximises value for users while building sustainable advantage. We’ll ensure your technology, distribution channels, and business model work together as a unified system.
 
 [Arrange an initial chat →](/contact/)
 
