@@ -22,11 +22,15 @@ We’ll spend two weeks talking to you and your team, researching the landscape,
 
 Users’ needs. Your organisation’s goals. A solution that meets both. It’s the messy middle.
 
-Over eight to sixteen weeks, we’ll iterate rapidly through the cycle of understanding the problem and exploring the solutions. We’ll find out what’s valuable, viable, feasible and usable, setting you up for the beta build phase.
+Over four to eight weeks, we’ll iterate through the cycle of understanding the problem and exploring the solutions. We’ll find out what’s valuable, viable, feasible and usable, setting you up for the beta build phase.
+
+### Rapid mode!
+
+Want to validate a new idea or see what something could look like? We’ll host a one-day workshop with you on Monday, co-design, build and validate it with users, iterate in real-time, and share insights and code on Friday. Five days max.
 
 [Talk about discovery and alpha →](/contact/)
 
-## 🆕 Building and launching
+## Building and launching
 
 We all want to solve users’ problems today. But if you don’t have capacity right now, you’ll want to call in some help.
 
@@ -54,7 +58,7 @@ Over six cycles or sprints, we’ll identify opportunities to improve quality, e
 
 Your actions won’t deliver value by accident. The most successful products and services have sewn the golden thread between vision, strategy, objectives, key results and other indicators. 
 
-Over four to six weeks, we’ll map out your current or planned value ecosystem, identify misalignments or gaps, and design a coherent architecture that maximises value for users while building sustainable advantage. We’ll ensure your technology, distribution channels, and business model work together as a unified system.
+Over three to four weeks, we’ll map out your current or planned value ecosystem, identify misalignments or gaps, and design a coherent architecture that maximises value for users while building sustainable advantage. We’ll ensure your technology, distribution channels, and business model work together as a unified system.
 
 [Arrange an initial chat →](/contact/)
 
