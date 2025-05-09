@@ -22,7 +22,7 @@ In this post we’ll cover some guiding principles for designing and using metri
 ## Guiding principles
 
 1. Value outcomes over outputs
-2. Tools, not goals
+2. Measures, not targets
 3. Balance the what (quantitative) and the why (qualitative)
 4. Measure the entire product or service
 5. Keep it light and actionable
@@ -34,9 +34,9 @@ We acknowledge that [outputs are on the path to achieving outcomes](https://www.
 
 But delivering outcomes is the real reason why we’re here. So we don’t measure whether we’ve delivered a product or feature, we measure the impact it’s having.
 
-### Tools, not goals
+### Measures, not targets
 
-Follow [Goodhart’s Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): ‘When a measure becomes a target, it ceases to be a good measure.’
+Follow [Goodhart’s Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): ‘When a measure becomes a target, it ceases to be a good measure.’ 
 
 There are numerous factors that contribute to a number or reading going up or down. Metrics, measures and indicators are a starting point for a conversation, so we can ask why and do something about it (or not). The measures are in service of learning: tools, not goals.
 
@@ -50,13 +50,13 @@ There’s no point doing something faster if it makes the experience worse for u
 
 If we can see where people start, how they move through and where they end, we can identify where to focus our efforts for improvements. The same is true for people who come back too, we want to see whether we’ve made things better than last time they were here.
 
-If you’re only measuring one part, you only know how one part is performing. 
+If you’re only measuring one part, you only know how one part is performing. Get holistic readings.
 
 ### Keep them light and actionable
 
-It’s easy to go overboard and start tracking everything, but too much information can be a bad thing. If we track too many metrics, we run the risk of analysis paralysis. 
+It’s easy to go overboard and start tracking everything, but too much information can be a bad thing. If we track too many metrics, we run the risk of analysis paralysis. Similarly, one measure is too few: it’s not enough to understand an entire system.
 
-Four to eight key metrics or indicators per team is enough and should inspire action.
+Four to eight key metrics or indicators per team is enough and should inspire action. 
 
 ### Revisit or refine as things change
 
