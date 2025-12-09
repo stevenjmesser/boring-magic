@@ -43,7 +43,7 @@ Technologies have an impact on the availability of jobs. The introduction of the
 
 [Jevon’s paradox](https://www.timpaul.co.uk/posts/automation-and-the-jevons-paradox/){:target="_blank"} teaches us that AI will lead to more work, not less. Over time accountants needed fewer clerks, but increases in financial activity have lead to a greater need for auditors. So we will still need people in jobs to do thinking, reasoning, assessing and other things people are good at.
 
-Rather than replacing people with machines to reduce costs, technology should be used to empower human workers. We should augment the intelligence of our people, not replace it.
+Rather than replacing people with machines to reduce costs, technology should be used to empower human workers. We should augment the intelligence of our people, not replace it. Automation should lead to innovation, not elimination.
 
 That means using things like large language models (LLMs) to reduce the inertia of the blank page problem,  helping with brainstorming, rather than asking an LLM to write something for you. [Extensive not intensive](https://mosaic.uoc.edu/2023/06/26/nobody-writing-and-nobody-reading-artificial-intelligence-chatbots-and-the-science-we-want/){:target="_blank"} technology.
 
