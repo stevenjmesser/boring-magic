@@ -19,14 +19,14 @@ We look at what you’re doing, how, and what you want to achieve. And then we t
 
 That might mean:
 
-- reviewing your vision or strategy
-- setting up your product foundations
-- helping you develop your product roadmap
-- getting a new thing off the ground (0 → 1)
-- progressing a thing to its next stage (1 → _n_)
-- reviewing your product operating model
-- catalysing delivery teams, or
-- training, coaching and mentoring.
+- [reviewing your vision or strategy](/services/reviewing-your-vision-or-strategy/)
+- [setting up your product foundations](/services/setting-up-your-product-foundations/)
+- [helping you develop your product roadmap](/services/designing-your-value-architecture/)
+- [getting a new thing off the ground (0 → 1)](/services/discovery-and-prototyping/)
+- [progressing a thing to its next stage (1 → _n_)](/services/leading-a-team/)
+- [reviewing your product operating or delivery model](/services/reviewing-your-product-operating-or-delivery-model/)
+- [catalysing delivery teams](/services/catalysing-delivery-teams/), or
+- [training, coaching and mentoring](/services/training-coaching-mentoring/).
 
 If you need a designer or a developer too, we can tap into our network.
 
@@ -36,7 +36,7 @@ Look at our [services](/services/) for more detail.
 
 You might be from government, a local authority, the third sector, a large company or a startup. We’ve worked with organisations like yours before. 
 
-Check a [portfolio](https://visitmy.website/work){:target="_blank"} of notable projects.
+Check our [case studies](/case-studies/) and a [portfolio](https://visitmy.website/work){:target="_blank"} of notable projects.
 
 ### Start a chat
 
@@ -44,7 +44,7 @@ Check a [portfolio](https://visitmy.website/work){:target="_blank"} of notable p
 
 <br/>
 
-Boring Magic is a company registered in England & Wales, company number [15229583](https://find-and-update.company-information.service.gov.uk/company/15229583){:target="_blank"}. VAT number 462529580.
+<span class="footer">Boring Magic is a company registered in England & Wales, company number [15229583](https://find-and-update.company-information.service.gov.uk/company/15229583){:target="_blank"}. VAT number 462529580.</span>
 
 <script type="application/ld+json">
 {
