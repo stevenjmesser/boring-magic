@@ -27,6 +27,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap  
+  - jekyll-redirect-from
 
 collections:
   pages:
@@ -38,6 +39,12 @@ collections:
     permalink: '/tag/:tag'
     slugify:
       mode: default
+  case-studies:
+    output: true
+    permalink: /:collection/:title/
+  services:
+    output: true
+    permalink: /:collection/:title/
   
 defaults:
   -
