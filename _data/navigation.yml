@@ -3,11 +3,13 @@ links:
   url: /
 - title: Services
   url: /services/
+- title: Case studies
+  url: /case-studies/
 - title: Academy
   url: /academy/
-- title: Now
-  url: /now/
 - title: Blog
   url: /blog/
+- title: Now
+  url: /now/
 - title: Contact
   url: /contact/
