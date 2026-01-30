@@ -16,7 +16,7 @@ tags:
  - agile
 ---
 
-**Through late 2023 to early 2024, we worked with GOV.‌UK to double its release frequency, significantly improving service delivery speed and team morale.** Facing challenges with traditional two-week sprints, we implemented a new 4-week delivery cycle that fundamentally shifted their approach to rapid iteration and adaptation.
+**Through late 2023 to early 2024, we worked with GOV.‌UK Design System to double their release frequency, significantly improving service delivery speed and team morale.** Facing challenges with traditional two-week sprints, we implemented a new 4-week delivery cycle that fundamentally shifted their approach to rapid iteration and adaptation.
 
 ## The problem
 
@@ -75,6 +75,10 @@ After presenting it to the team and getting their buy-in to experiment with a ne
 In their first cycle, the team delivered three out of five briefs – a significant improvement on their completion rate at the time. As Kelly reported, ‘most team members enjoyed working in smaller, focused groups and having autonomy over how they deliver their work.’ 
 
 A few months later, we analysed how often the team was releasing new software: **they were releasing twice as often in half the time.** Between October 2022 and October 2023, there were five releases. Between October 2023 and March 2024, there were 10 releases. 
+
+Here’s a graph showing releases per quarter, based on the dates of [releases of GOV.‌UK Frontend](https://github.com/alphagov/govuk-frontend/tags){:target="_blank"} (their main codebase). (Data collected 28 January 2026.)
+
+![This is a bar chart illustrating the number of releases made to GOV.UK Frontend over time, broken down by calendar quarters from 2018 Q2 through 2026 Q1.](/assets/images/govuk-frontend-release-graph-2018-to-2026-q1.png)
 
 One year on and the team has maintained momentum. Iterations have increased, they’ve built a steady rhythm of releasing GOV.‌UK Frontend more frequently, and [according to a recent review](https://medium.com/@kellyleeGDS/4-week-delivery-model-one-year-and-a-bit-on-f7f0af71dcec){:target="_blank"} the team is a lot happier due to increased autonomy and reduced frustration with outdated methods. 
 
