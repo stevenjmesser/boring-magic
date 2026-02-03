@@ -2,7 +2,7 @@
 layout: post
 title: "Our positions on generative AI"
 date: 2024-12-08T15:27:52Z
-description: "Given the hype around artificial intelligence, it feels worthwhile stating our positions on the technology. We’re open to working on and with it, but there’s a few ideas we’ll bring to the table."
+description: "Given the hype around artificial intelligence, we wrote down our positions on the technology. Here’s a few ideas we’ll bring to the table."
 tags:
  - artificial intelligence
  - generative ai

@@ -14,4 +14,4 @@ Want to validate a new idea or see what something could look like? We’ll host 
 
 ### Ready to get into the messy middle?
 
-[Talk to us about discovery and prototyping →](/contact/)
+[Talk to us about discovery and prototyping →](/contact//)

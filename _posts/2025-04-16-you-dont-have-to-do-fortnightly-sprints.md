@@ -2,7 +2,7 @@
 layout: post
 title: "You don’t have to do fortnightly sprints"
 date: 2025-04-16T18:21:51+01:00
-description: "Discover how we helped the GOV.UK Design System double their release rate in half the time. Learn about the principles behind the four-week cycle, which emphasises autonomy, delivery, and frequent software releases. It increased team happiness and effectiveness."
+description: "How to break away from traditional two-week sprints and find autonomy, frequent software releases and increased team happiness."
 tags:
  - delivery
  - focus

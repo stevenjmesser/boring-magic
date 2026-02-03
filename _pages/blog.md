@@ -2,6 +2,7 @@
 layout: default
 title: Blog
 permalink: /blog/
+description: A journal sharing what we’ve learned, thoughts, useful tools and approaches, plus commentary on digital product design.
 ---
 
 <section class="posts">

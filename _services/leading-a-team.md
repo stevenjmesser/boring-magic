@@ -8,4 +8,4 @@ Whether you’re getting a new thing off the ground (0 → 1) or progressing a t
 
 ### Need to bring in a product leader?
 
-[Get in touch and tell us about your team →](/contact/)
+[Get in touch and tell us about your team →](/contact//)

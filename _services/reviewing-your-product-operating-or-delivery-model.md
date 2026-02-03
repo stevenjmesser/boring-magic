@@ -14,4 +14,4 @@ Find out how we [improved delivery for GOV.UK Design System](/case-studies/impro
 
 ### Want to improve your team’s product and delivery? 
 
-[Arrange an initial chat →](/contact/)
+[Arrange an initial chat →](/contact//)

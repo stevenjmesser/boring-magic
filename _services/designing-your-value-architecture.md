@@ -10,4 +10,4 @@ Over three to four weeks, we’ll map out your current or planned value ecosyste
 
 ### Need to connect strategy with delivery?
 
-[Let’s talk about how your goals line up with how you measure success →](/contact/)
+[Let’s talk about how your goals line up with how you measure success →](/contact//)

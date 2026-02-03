@@ -2,7 +2,7 @@
 layout: post
 title: "Using quarters as a checkpoint"
 date: 2024-08-23 16:50:56+01:00
-description: "Breaking your strategy down into smaller, more manageable chunks can help you make more progress sooner. The quarterly checkpoint is a time to refocus efforts and double-down, change direction or move on to the next objective."
+description: "Breaking your strategy down into smaller, more manageable chunks can help you make more progress sooner. The quarterly checkpoint is a useful block of time."
 tags:
  - planning
  - strategy
@@ -98,4 +98,4 @@ A core tenet of agile is responding to change over following a plan, so don’t 
 
 The quarterly checkpoint isn’t the only time you can look back to look forward – that’s why retrospectives are useful. You can use the activities above at any point. The best product teams build these behaviours into their regular practice.
 
-If you’d like help running these workshops or have any questions, [get in touch]({{ "/contact" | relative_url }}) and we’ll set up a chat.
+If you’d like help running these workshops or have any questions, [get in touch]({{ "/contact/" | relative_url }}) and we’ll set up a chat.

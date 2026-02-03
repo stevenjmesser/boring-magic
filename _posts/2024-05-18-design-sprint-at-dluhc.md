@@ -2,7 +2,7 @@
 layout: post
 title: "Design sprint at DLUHC"
 date: 2024-05-18 10:11:27+01:00
-description: "For the last five days, we’ve been looking at how we can make it easier for local planning authorities (LPAs) to provide data to our specifications. Instead of doing that in a standard delivery cycle, the team assembled in London for a design sprint."
+description: "For the last five days, we’ve been looking at how we can make it easier for local planning authorities (LPAs) to provide data to our specifications."
 tags:
     - design sprint
     - minimum viable product

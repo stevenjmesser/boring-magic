@@ -40,7 +40,7 @@ Check our [case studies](/case-studies/) and a [portfolio](https://visitmy.websi
 
 ### Start a chat
 
-[Get in touch]({{ "/contact/" | relative_url }}) about your project and we’ll see if we can help.
+[Get in touch]({{ "/contact//" | relative_url }}) about your project and we’ll see if we can help.
 
 <br/>
 

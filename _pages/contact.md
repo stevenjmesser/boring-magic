@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+description: Get in touch with Steve at Boring Magic to chat about working together.
 ---
 
 To start a conversation:

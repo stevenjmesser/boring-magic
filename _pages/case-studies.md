@@ -2,6 +2,7 @@
 layout: default
 title: Case studies
 permalink: /case-studies/
+description: Stories from helping clients meet their goals. Gain insight into how we work and our values.
 ---
 
 <section class="posts">

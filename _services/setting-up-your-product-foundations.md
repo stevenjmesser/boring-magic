@@ -10,4 +10,4 @@ We’ll work with your teams to establish the foundations and coach them through
 
 ### Ready to establish roles and responsibilities?
 
-[Arrange a chat about your product foundations →](/contact/)
+[Arrange a chat about your product foundations →](/contact//)

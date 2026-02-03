@@ -2,7 +2,7 @@
 layout: post
 title: Improving delivery for GOV.‌UK Design System
 date: 2026-01-28T15:23:29Z
-description: "Discover how we helped the GOV.UK Design System double their release rate in half the time. Learn about the principles behind the four-week cycle, which emphasises autonomy, delivery, and frequent software releases. It increased team happiness and effectiveness."
+description: "Discover how we helped the GOV.UK Design System double their release rate in half the time."
 image: /assets/images/
 image_title: ""
 image_artist: 

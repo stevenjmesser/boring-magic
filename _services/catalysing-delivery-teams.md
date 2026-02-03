@@ -10,4 +10,4 @@ By conducting team interviews and workshops over three weeks, we’ll get an und
 
 ### Thinking about rejuvenation?
 
-[Get in touch for a confidential chat →](/contact/)
+[Get in touch for a confidential chat →](/contact//)

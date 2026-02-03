@@ -2,7 +2,7 @@
 layout: post
 title: "Metrics, measures and indicators: a few things to bear in mind"
 date: 2025-05-08T18:49:50+01:00
-description: "Metrics, measures and indicators help you track and evaluate outcomes. They can tell us if we’re moving in the right direction or not, or if we’ve achieved the outcome we wanted to. Here’s some guiding principles for designing and using them, a few things to bear in mind."
+description: "Metrics, measures and indicators help you track and evaluate outcomes. They can tell us if we’re moving in the right direction or not. Here’s some guiding principles."
 tags:
  - product
  - performance

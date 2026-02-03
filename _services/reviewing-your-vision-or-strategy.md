@@ -10,4 +10,4 @@ We’ll spend two weeks talking to you and your team, researching the landscape,
 
 ### Want to inspire and motivate teams to achieve success?
 
-[Arrange an initial chat →](/contact/)
+[Arrange an initial chat →](/contact//)
