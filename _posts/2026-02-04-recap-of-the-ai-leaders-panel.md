@@ -12,9 +12,11 @@ tags:
  - design
 ---
 
-_Here’s what we said at Ministry of Justice’s [AI Leaders panel](https://events.teams.microsoft.com/event/de1b76ef-757f-4fcd-9ef6-c98d4e480467@c6874728-71e6-41fe-a9e1-2e8c36776ad8), the opening event of their [AI Digital Professions conference](https://www.eventbrite.com/e/ai-digital-professions-conference-tickets-1970192031402?viewDetails=true) in January 2026._
+Here’s what we said at Ministry of Justice’s [AI Leaders panel](https://events.teams.microsoft.com/event/de1b76ef-757f-4fcd-9ef6-c98d4e480467@c6874728-71e6-41fe-a9e1-2e8c36776ad8), the opening event of their [AI Digital Professions conference](https://www.eventbrite.com/e/ai-digital-professions-conference-tickets-1970192031402?viewDetails=true) in January 2026.
 
-_Thank you to Nikola Goger for the invitation to speak, and thanks too to the other panellists: Tim Paul (Head of User Centred Design at i.AI), Paul Haigh (Chief Technology Officer at Ministry of Justice) and Jan Murdoch (Head of Horizon Scanning at Department for Environment, Food & Rural Affairs)._
+Thank you to Nikola Goger for the invitation to speak, and thanks too to the other panellists: Tim Paul (Head of User Centred Design at i.AI), Paul Haigh (Chief Technology Officer at Ministry of Justice) and Jan Murdoch (Head of Horizon Scanning at Department for Environment, Food & Rural Affairs).
+
+This is a tidied-up version of what was said – there were many more instances of ‘um’, ‘like’ and far too many instances of ‘I think’ in the original transcript!
 
 ### Question: How are you seeing AI change each of your professions or areas? And how do you think this will impact the future of your profession or area?
 
