@@ -46,3 +46,7 @@ Mastering one’s discipline can take a lifetime, but you have to start somewher
 ## Leading a team
 
 Need a fractional product manager or interim product leader for six months or more? We can step in and [lead a team →](/services/leading-a-team/)
+
+## Not sure what you need?
+
+Let’s talk about your challenges in a [free 30-minute chat →](/contact/)
