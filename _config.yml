@@ -65,3 +65,19 @@ defaults:
       path: ""
     values:
       image: /assets/images/boring-magic.png
+  - scope:
+      path: "academy/vision-and-mission/engine/"
+    values:
+      sitemap: false
+  - scope:
+      path: "academy/vision-and-mission/engine/**"
+    values:
+      sitemap: false
+  - scope:
+      path: "tag/**"
+    values:
+      sitemap: false
+  - scope:
+      path: "tag"
+    values:
+      sitemap: false
