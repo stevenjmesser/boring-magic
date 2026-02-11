@@ -3,7 +3,7 @@ gem 'jekyll'
 gem 'jekyll-paginate-v2'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
-gem "rexml", ">= 3.3.6"
+gem "rexml", ">= 3.4.2"
 gem 'csv'
 gem 'base64'
 gem 'logger'
