@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Services
+title: Product management & service design consultancy services
 permalink: /services/
+description: Experienced product management consultant and service design expert. From product strategy and discovery to team leadership and delivery. UK-based, working remotely, hybrid or in office with government, startups, and scale-ups.
 ---
 
-Our primary expertise is product management, user-centred service design, and ways of working from the world of tech. 
+We're a product management and design consultancy specialising in helping teams build better digital products and services. Whether you need a freelance product manager, product strategy consultant, or service design expertise, we bring practical, hands-on support to government, startups, and growing organisations across the UK and Europe.
 
 Modern work is complex, so we’re not limited to a specific set of services. We look at what you’re doing, how, and what you want to achieve. And then we take steps forward together.
 
@@ -44,4 +45,4 @@ Mastering one’s discipline can take a lifetime, but you have to start somewher
 
 ## Leading a team
 
-Need a product leader for six months or more? We can step in and [lead a team →](/services/leading-a-team/)
+Need a fractional product manager or interim product leader for six months or more? We can step in and [lead a team →](/services/leading-a-team/)
